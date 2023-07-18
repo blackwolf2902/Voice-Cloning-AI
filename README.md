@@ -27,11 +27,11 @@ This repository contains code that demonstrates voice cloning using the Tortoise
 
 ## Results
 
-### Sample Input:
+### Input:
 Text: "Thanks for reading this article. I hope you learned something."
 
-### Sample Output:
-[Download Sample Output Audio](link-to-generated-audio-file)
+### Output:
+https://github.com/blackwolf2902/Voice-Cloning-AI/blob/main/generated-joe.wav
 
 Note: The quality of synthesized speech heavily depends on the amount and quality of custom voice data provided. The provided sample output is for demonstration purposes only and may not represent optimal results. The audio output can be further improved by using high-quality custom voice data and experimenting with different text inputs.
 
