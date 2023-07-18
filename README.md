@@ -4,7 +4,7 @@ This repository contains code that demonstrates voice cloning using the Tortoise
 
 Note: This project was created specifically for the AI Engineer Intern task at OpeninApp Company. The Voice Cloning AI showcases the ability to synthesize speech with custom voice data using HuggingFace models. The provided sample input and output audio files demonstrate the successful completion of the task.
 
-Feel free to connect with me on LinkedIn: [www.linkedin.com/in/arumugam-n-436466238]
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arumugam-n-436466238)
 
 ## Getting Started
 
