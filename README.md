@@ -35,7 +35,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arumugam-
 Text: "Thanks for reading this article. I hope you learned something."
 
 ### Output:
-generated-joe.wav
+! [ Output Audio ](https://github.com/blackwolf2902/Voice-Cloning-AI/blob/main/generated-joe.wav)
 
 Note: The quality of synthesized speech heavily depends on the amount and quality of custom voice data provided. The provided sample output is for demonstration purposes only and may not represent optimal results. The audio output can be further improved by using high-quality custom voice data and experimenting with different text inputs.
 
